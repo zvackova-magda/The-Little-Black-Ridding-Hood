@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Little Black Ridding Hood
 
 You can use the [editor on GitHub](https://github.com/zvackova-magda/TheLittleBlackRiddingHoodPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
