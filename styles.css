@@ -40,3 +40,51 @@ iframe {
     height: 18em;
 
 }
+
+.link {
+    position: relative;
+}
+.link .text{
+    text-align: center;
+    font-size: 2em;
+    text-indent: 0;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    position: absolute;
+    top: 0;
+    align-self: center;
+    width: 100%;
+}
+.link .gif {
+    position: absolute;
+    top: 0;
+    padding-top: 1em;
+    visibility: hidden;
+    width: 100%;
+}
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: dimgray;
+}
+
+/* mouse over link */
+a:hover {
+}
+
+a:hover .text{
+    visibility: hidden;
+}
+
+a:hover .gif{
+    visibility: visible;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
