@@ -3,8 +3,10 @@ body {
 }
 h1 {
     color: black;
-    font-family: "Arial Black";
+    font-family: "Butcherman Caps", "Arial Black",  Gadget, sans-serif;
     text-align: center;
+    font-size: 4em;
+    margin-bottom: 0;
 }
 
 .left_side {
@@ -19,6 +21,22 @@ h1 {
     right: 0;
 }
 
+.middle-text {
+    position: absolute;
+    left: 30%;
+    width: 40%;
+    color: lightgrey;
+    font-size: 1.5em;
+    text-indent: 50px;
+    font-family: "Love Ya Like A Sister", "Arial Black",  Gadget, sans-serif;
+}
+
 img {
     width: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 18em;
+
 }
